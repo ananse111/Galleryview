@@ -9,11 +9,11 @@
 
 
 
-iframe{
+iframe.view2{
     background: green;
     color: red;
-    height: 500px;
-    width: 100%;
+    height: 700px;
+    width: 350px;
 }
 .view1{
     padding-top: none;
