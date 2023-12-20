@@ -13,8 +13,10 @@ iframe.view2{
     background: green;
     color: red;
     height: 700px;
-    width: 350px;
+    width: 400px;
 }
 .view1{
     padding-top: none;
+	display: fles;
+justify-content: center;
 }
