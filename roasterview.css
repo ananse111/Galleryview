@@ -17,6 +17,6 @@ iframe.view2{
 }
 .view1{
     padding-top: none;
-	display: fles;
+	display: flex;
 justify-content: center;
 }
